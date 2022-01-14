@@ -46,3 +46,6 @@ Intoduction
 
 Hello my name is Phiroze Duggal. I go to UCSD and I am applying to the Computer Science Major program there. 
 
+[Lab Report 1](lab-report-1-week-2.html)
+[Lab Report 1](https://phrzdgal.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+
