@@ -1,4 +1,4 @@
-Hello World!
+
 
 
 _yes_
@@ -40,3 +40,9 @@ Horizontal rule:
 
 ····# code block
 ····I hope you liked the lion image! Looks fierce!
+
+Intoduction 
+- - - - - - - - 
+
+Hello my name is Phiroze Duggal. I go to UCSD and I am applying to the Computer Science Major program there. 
+
