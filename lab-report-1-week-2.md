@@ -1,2 +1,1 @@
-![Image] [yeah.png] 
-![Image] (yeah.png) 
+![Image](yeah.png) 
