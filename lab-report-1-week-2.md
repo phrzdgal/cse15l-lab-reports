@@ -1,4 +1,4 @@
-            How to Work on a Remote Server from Home
+#           How to Work on a Remote Server from Home
 
 Hello! In this blog you will learn to enter and access a remote server/computer from your home computer (the client), copy files stored from the client 
 on to the server, and run your files on that server. 
@@ -6,11 +6,14 @@ on to the server, and run your files on that server.
 
 
 ----
-Step 1: Download Visual Studio Code 
+# Step 1: Download Visual Studio Code 
 ---------
 ![Image](sc1.png)
 
-1. Go to Visual Studio Code website.
+1. Go to Visual Studio Code website. The link to it is provided below: 
+
+    [VS Code Link] (https://code.visualstudio.com/)
+
 2. Follow the directions on the site to start the download the program.
 3. Agree to the terms and conditions and try to run it on your computer to make sure everything works fine!
 
@@ -20,7 +23,7 @@ Step 1: Download Visual Studio Code
 
 ---
 
-Step 2: Remotely Connecting
+# Step 2: Remotely Connecting
 -----------
 ![Image](sc2.png) 
 
@@ -41,7 +44,7 @@ Type yes, enter, and give your password when prompted. Your screen should look l
 
 
 ----
-Step 3: Trying Some Commands
+# Step 3: Trying Some Commands
 ----------
 ![Image](sc3.png) 
 
@@ -58,7 +61,7 @@ Step 3: Trying Some Commands
 
 -----
 
-Step 4: Moving Files with scp
+# Step 4: Moving Files with scp
 ----------
 
 ![Image](sc4.png)
@@ -81,7 +84,7 @@ Once again, make sure you are using your username and not the exact one provided
 
 ------
 
-Step 5: Setting an SSH Key
+# Step 5: Setting an SSH Key
 ---------
 ![Image](sc5.png)
 1. If you find having to constantly log in when accessing the remote server tedious, than should be happy to know that there is solution: setting up SSH keys. Keys are stored in both the client and the remote computer and are paired when the ssh command to access the remote server is ran on your home computer. 
@@ -100,7 +103,7 @@ You should now be able to ssh or scp on your computer without a password as I ha
 
 
 ----
-Step 6: Optimizing Remote Running
+# Step 6: Optimizing Remote Running
 -------
 ![Image](scc.png)
 
@@ -120,6 +123,8 @@ Go to home directory using
 * Use Javac and java to run the file on the server. 
 
 I personally use the up key on the terminal to call the ssh, Javac, and Java commands so that I do not have to type excessively and so that I really only have to think about the up key and the enter key. 
+
+![Image](yes.png)
 
 
 
