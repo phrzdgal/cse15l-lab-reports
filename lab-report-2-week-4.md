@@ -22,6 +22,10 @@ For the second code change, the link to the test file for the failure inducing i
 
 The failure-inducing input produced this symptom / error message (the output of running the file at the command line for the failing version): 
 
+![Image 22](ZZ3.png)
+
+The bug was that the code would try to read other contents of the input file other than the actual link because an open and paranthesis character was attached within the file before the actual link. The corresponding symptom to this bug was that the output contained other characters/text alongside the link(s) provided. The failure inducing input was the file "fail.md" which revealed the bug through the symptom by including an open paranthesis within the text file prior to including the actual link.
+
 
 
 # Code Change 3
