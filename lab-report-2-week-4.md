@@ -6,7 +6,7 @@ In labs 3 and 4, our group made 3 code changes in order to fix the bugs that we 
 ![Image 1](LL1.png)
 For the first code change, the link to the test file for a failure-inducing input that prompted the change is given: 
 
-[Code Change 1 Link] (https://github.com/phrzdgal/markdown-parse/blob/9a6c533a884dbee76ad4940d591c550a08ae53bc/newfile.md)
+[Code Change 1 Link](https://github.com/phrzdgal/markdown-parse/blob/9a6c533a884dbee76ad4940d591c550a08ae53bc/newfile.md) 
 
 The failure-inducing input produced this symptom / error message (the output of running the file at the command line for the failing version):
 
@@ -18,7 +18,7 @@ The bug above was that the while loop would run infinitely because the code was 
 ![Image 2](LL2.png)
 For the second code change, the link to the test file for the failure inducing input that prompted the change is given: 
 
-[Code Change 2 Link] (https://github.com/fantasticfishman/markdown-parse/blob/68a6720312dd061140b540ac996aec6a4dd9d46f/fail.md)
+[Code Change 2 Link](https://github.com/fantasticfishman/markdown-parse/blob/68a6720312dd061140b540ac996aec6a4dd9d46f/fail.md)
 
 The failure-inducing input produced this symptom / error message (the output of running the file at the command line for the failing version): 
 
@@ -32,7 +32,7 @@ The bug was that the code would try to read other contents of the input file oth
 ![Image 3](LL3.png)
 For the third code change, the link to the test file for the failure inducing input that prompted the change is given: 
 
-[Code Change 3 Link] (https://github.com/fighterkabir/markdown-parse/commit/0e05f82551ef8c36d66acbe3d82309b472dfdd9d#diff-e5e6f9ec0a19cc77d901279b30fdeb20ae719aba32347ae8e7df67ca181a333b)
+[Code Change 3 Link](https://github.com/fighterkabir/markdown-parse/commit/0e05f82551ef8c36d66acbe3d82309b472dfdd9d#diff-e5e6f9ec0a19cc77d901279b30fdeb20ae719aba32347ae8e7df67ca181a333b)
 
 The failure-inducing input produced this symptom / error message (the output of running the file at the command line for the failing version):
 
